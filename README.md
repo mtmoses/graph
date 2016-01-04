@@ -14,18 +14,18 @@ Installation
 
 First, copy the files to the src directory within your Go Root directory.
 Second, build and install the library as follows:
----
+```
 go build mtmoses/graph
 go install mtmoses/graph
----
+```
 
 Usage
 -------
 
 Just include the graph library in your go files that access it as follows:
----
+```
 import mtmoses/graph
----
+```
 
 Examples
 -------
